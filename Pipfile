@@ -30,6 +30,7 @@ xlrd = "*"
 sentry-sdk = "*"
 django-storages = "*"
 boto3 = "*"
+prompt-toolkit = "*"
 
 [dev-packages]
 flake8 = "*"
